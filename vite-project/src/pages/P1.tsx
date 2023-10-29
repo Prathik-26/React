@@ -1,8 +1,8 @@
-import Color from '../components/Color';
+import ColorBox from '../components/ColorBox';
 
 const P1=()=>{
     return(
-        <Color></Color>
+        <ColorBox></ColorBox>
     )
 }
 export default P1;

@@ -6,9 +6,9 @@ import P2 from "./pages/P2";
 function App() {
   return(
     <ChakraProvider>
-      <P1></P1>
-      {/* <P2></P2> */}
-      {/* <P3></P3> */}
+      {/* <P1></P1>
+      <P2></P2> */}
+      <P3></P3>
     </ChakraProvider>
   )
 }
