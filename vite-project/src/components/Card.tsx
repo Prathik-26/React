@@ -3,9 +3,9 @@ import {Grid, Stack, Heading, Text, Card, CardBody, Image} from '@chakra-ui/reac
 const Card1=()=>{
 return(
 
-    <Card minWidth='100px'>
+    <Card minWidth='100px' bg='teal.500'>
     <CardBody>
-    <Image
+    <Image pb='5'
       src="https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80'"
       alt='Green double couch with wooden legs'
     />
